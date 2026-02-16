@@ -4,7 +4,9 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=28&pause=1000&color=5eead4&center=true&vCenter=true&width=800&lines=[Feature+1+Description];[Feature+2+Interactive];[Feature+3+Performance];[Feature+4+Design]" alt="Typing Animation" />
   </a>
-
+<p>
+    <a href="https://mzaid-dev.github.io/Aurawear/"><img src="https://img.shields.io/badge/Live-Demo-02569B?style=social&logo=flutter&logoColor=02569B" alt="Live Demo" /></a>
+  </p>
   <p>
     <a href="#"><img src="https://img.shields.io/badge/Flutter-3.10+-02569B?style=social&logo=flutter&logoColor=02569B" alt="Flutter" /></a>&nbsp;
     <a href="#"><img src="https://img.shields.io/badge/Dart-3.0+-0175C2?style=social&logo=dart&logoColor=0175C2" alt="Dart" /></a>&nbsp;
