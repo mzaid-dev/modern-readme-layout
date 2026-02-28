@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=300&section=header&text=[Project%20Name]&fontSize=90&fontAlign=50&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF&desc=[Your%20Project%20Tagline]&descAlign=50&descAlignY=60&descSize=20&fontUrl=https://fonts.googleapis.com/css2?family=Outfit:wght@700" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BAE6FD,50:E9D5FF,100:FBCFE8&height=300&section=header&text=[Project%20Name]&fontSize=90&fontAlign=50&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF&desc=[Your%20Project%20Tagline]&descAlign=50&descAlignY=60&descSize=20&fontUrl=https://fonts.googleapis.com/css2?family=Outfit:wght@700" alt="Header" width="100%" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=28&pause=1000&color=5eead4&center=true&vCenter=true&width=800&lines=[Feature+1+Description];[Feature+2+Interactive];[Feature+3+Performance];[Feature+4+Design]" alt="Typing Animation" />
@@ -50,11 +50,10 @@
 > **Scroll horizontally** to explore the UI journey.
 
 <div style="overflow-x: auto; white-space: nowrap; padding-bottom: 20px;">
-  <img src="https://placehold.co/300x600/0F2027/5eead4?text=Splash+UI&font=playfair-display" height="400" alt="Screen 1" style="border-radius: 20px; margin-right: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-  <img src="https://placehold.co/300x600/203A43/FFFFFF?text=Auth+Flow&font=playfair-display" height="400" alt="Screen 2" style="border-radius: 20px; margin-right: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-  <img src="https://placehold.co/300x600/2C5364/5eead4?text=Dashboard&font=playfair-display" height="400" alt="Screen 3" style="border-radius: 20px; margin-right: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-  <img src="https://placehold.co/300x600/0F2027/FFFFFF?text=Analytics&font=playfair-display" height="400" alt="Screen 4" style="border-radius: 20px; margin-right: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-  <img src="https://placehold.co/300x600/203A43/5eead4?text=Settings&font=playfair-display" height="400" alt="Screen 5" style="border-radius: 20px; margin-right: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+  <img src="https://placehold.co/300x600/BAE6FD/1A1C1E?text=Onboarding" height="400" alt="onboarding" style="border-radius: 20px; margin-right: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <img src="https://placehold.co/300x600/E9D5FF/1A1C1E?text=Dashboard" height="400" alt="dashboard" style="border-radius: 20px; margin-right: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <img src="https://placehold.co/300x600/FBCFE8/1A1C1E?text=Booking" height="400" alt="booking" style="border-radius: 20px; margin-right: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <img src="https://placehold.co/300x600/BAE6FD/1A1C1E?text=Profile" height="400" alt="profile" style="border-radius: 20px; margin-right: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </div>
 
 <br>
